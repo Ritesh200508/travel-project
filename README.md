@@ -1,1 +1,1 @@
-# travel-project
+This capstone project uses Machine Learning to improve the travel experience by predicting costs, recommending destinations, analyzing customer reviews, and grouping travelers by preferences. It is built with Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, and NLP tools like NLTK/SpaCy, developed in Jupyter Notebook/Google Colab.
